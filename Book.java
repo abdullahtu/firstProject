@@ -1,9 +1,9 @@
 public class Book {
 
 
-    public int ISBN ;
+    public int ISB ;
     public String author ;
-    public String title ;
+    public String titl ;
     public String genre ;
     
     public String generateReference() 
